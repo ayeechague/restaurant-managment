@@ -2,7 +2,7 @@
 Restaurant Management Web App (In Progress)
 Restaurant Management Web App (In Progress)
 
-This project is a web application for managing and displaying restaurant information. It is currently under development as part of my Systems Analysis program.
+This project is a web application for managing and displaying restaurant information. It is currently under development as part of my course.
 
 🔹 Features (planned and implemented)
 Admin Panel: Add, edit, and delete restaurant records.
